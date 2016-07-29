@@ -1,0 +1,6 @@
+{
+  "name": "losangeles.rs",
+  "tagline": "Los Angeles Rust User Group",
+  "body": "# Los Angeles Rust User Group\r\n\r\nThis is the website for members of the Rust Los Angeles user group. We normally meet once per month on a Wednesday evening. Please see our [meetup.com page](https://www.meetup.com/Rust-Los-Angeles/) for more details.\r\n\r\n## Open Source\r\n\r\nThe user group has been working on some open source software written in Rust. You can check out our projects on [github](https://github.com/rust-los-angeles/).\r\n\r\n## Contacts\r\n\r\nPlease get in touch with @hjr3 if you have any questions about Rust or this user group.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
